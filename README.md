@@ -1,2 +1,2 @@
 # SwiftJSONAlamofire
-Swift Alamofire with localhost, Url not defined
+Swift Alamofire CRUD with localhost, Url not defined
